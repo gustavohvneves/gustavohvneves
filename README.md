@@ -1,4 +1,4 @@
-# MY SOLANA REFERENCE
+# MY SOLANA RESEARCH
 
 ## :brain: Concepts and Techniques
 - [What's the difference between Layer 1 and Layer 2](difference_between_l1andl2.md)
