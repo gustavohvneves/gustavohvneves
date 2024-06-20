@@ -6,4 +6,4 @@
 
 
 ## :page_facing_up: Other
-- [Solana Developer Resources](https://solanacookbook.com/)
+- [Solana Developer Resources](solana_developer_resources.md)
