@@ -6,6 +6,8 @@
 
 ## :page_facing_up: The Best Crypto Job Sites
 
+- https://Linkedin.com/
+- https://upwork.com/
 - https://remotive.com/
 - https://myweb3jobs.com/
 - https://www.cryptojobs.com/
