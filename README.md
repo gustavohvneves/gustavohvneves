@@ -5,5 +5,5 @@
 - [Solana 101](https://2501babe.github.io/posts/solana101.html)
 
 
-## :page_facing_up: Tutorials
-- [Solana Devekoper Resources](https://solanacookbook.com/)
+## :page_facing_up: Other
+- [Solana Developer Resources](https://solanacookbook.com/)
