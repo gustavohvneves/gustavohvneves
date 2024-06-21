@@ -6,7 +6,9 @@
 <hr>
 
 <div align="center">
-   <h2><a href="./my_solana_research.md">MY SOLANA RESEARCH</a></h2>
+   <h2>MY SOLANA RESEARCH</h2>
+   <p></p>
+   <p><a href="./my_solana_research.md">Here!</a></p>
 </div>
 
 <hr>
