@@ -1,13 +1,13 @@
 <div align="center">
   <img  src="./github-header-image.png"/>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gold-coding&theme=matrix" alt="gold-coding" /></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p>
 </div>  
 
 <hr>
 
 <div align="center">
-    <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/davevad93/davevad93?style=for-the-badge&color=brightgreen"/></a>
+    <a href="https://github.com/gustavohvneves"><img src="https://komarev.com/ghpvc/?username=gustavohvneves&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/gustavohvneves/gustavohvneves?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
 <hr>
@@ -15,10 +15,10 @@
 <div align="center">
       <h2>About me:</h2>
       <p></p>
-      <p>🔭 I’m currently working on <a href="https://github.com/davevad93/rest-countries-django-app">rest-countries-django-app</a></p>
+     <!-- <p>🔭 I’m currently working on <a href="https://github.com/gustavohvneves/rest-countries-django-app">rest-countries-django-app</a></p>
       <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
       <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
-      <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p> 
+      <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p>  -->
 </div>
 
 <hr>
@@ -45,15 +45,15 @@
 <hr>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davevad93&show_icons=true&locale=en&layout=compact&theme=onedark" alt="davevad93" width=460 /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&locale=en&theme=onedark" alt="davevad93" width=460 /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=davevad93&&theme=onedark" alt="davevad93" width=460 /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gustavohvneves" width=460 /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gustavohvneves&show_icons=true&locale=en&theme=onedark" alt="gustavohvneves" width=460 /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohvneves&&theme=onedark" alt="gustavohvneves" width=460 /></p>
 </div>
 
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-**davevad93/davevad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gustavohvneves/gustavohvneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
