@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="./github-header-image.png"/>
+  <iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p>
 </div>  
 
