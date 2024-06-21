@@ -1,5 +1,8 @@
+# :✋ Hi, I'm Gustavo H. V. Neves.
+
 <div align="center">
-  <img  src="./giphy.gif"/>
+  <img  src="./giphy.gif" width="100%"/>
+  <p></p>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p>
 </div>  
 
