@@ -45,7 +45,7 @@
 <hr>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gustavohvneves" width=460 /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=matrix" alt="gustavohvneves" width=460 /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gustavohvneves&show_icons=true&locale=en&theme=onedark" alt="gustavohvneves" width=460 /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohvneves&&theme=onedark" alt="gustavohvneves" width=460 /></p>
 </div>
