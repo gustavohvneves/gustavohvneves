@@ -6,13 +6,6 @@
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p>
 </div>  
 
-<hr>
-
-<div align="center">
-   <h2>MY SOLANA RESEARCH</h2>
-   <p></p>
-   <p><a href="./my_solana_research.md">Here!</a></p>
-</div>
 
 <hr>
 
@@ -23,6 +16,14 @@
       <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
       <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
       <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p>  -->
+</div>
+
+<hr>
+
+<div align="center">
+   <h2> 🧠 MY SOLANA RESEARCH </h2>
+   <p></p>
+   <p><a href="./my_solana_research.md">Here!</a></p>
 </div>
 
 <hr>
