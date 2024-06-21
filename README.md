@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center">
-   # MY SOLANA RESEARCH(my_solana_research.md)
+   <a href="./my_solana_research.md">MY SOLANA RESEARCH</a>
 </div>
 
 <hr>
