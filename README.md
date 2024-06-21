@@ -6,8 +6,7 @@
 <hr>
 
 <div align="center">
-    <a href="https://github.com/gustavohvneves"><img src="https://komarev.com/ghpvc/?username=gustavohvneves&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/:user/:repo"/></a>
+   # MY SOLANA RESEARCH(my_solana_research.md)
 </div>
 
 <hr>
