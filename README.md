@@ -25,8 +25,11 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="center" style="display:flex;flex-direction:row;">
+    <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50/></a>
+    <a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width=50/></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50/><a/>
     <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50/><a/>
+    <a href="https://www.cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50/></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50/><a/>
     <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width=50/><a/>
     <a href="https://dotnet.microsoft.com/en-us/download"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=50/><a/>
@@ -45,7 +48,7 @@
 <hr>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=matrix" alt="gustavohvneves" width=460 /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gustavohvneves" width=460 /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gustavohvneves&show_icons=true&locale=en&theme=onedark" alt="gustavohvneves" width=460 /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohvneves&&theme=onedark" alt="gustavohvneves" width=460 /></p>
 </div>
