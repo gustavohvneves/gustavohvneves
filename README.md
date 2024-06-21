@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/gustavohvneves"><img src="https://komarev.com/ghpvc/?username=gustavohvneves&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/gustavohvneves/gustavohvneves?style=for-the-badge&color=brightgreen"/></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/:user/:repo"/></a>
 </div>
 
 <hr>
