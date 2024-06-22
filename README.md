@@ -31,11 +31,11 @@
 <h2 align="center">Languages and Tools:</h2>
 <div align="center" style="display:flex;flex-direction:row;">
     <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50/></a>
-    <a href="https://www.anchor-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50/></a>
-    <a href="https://rocket.rs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50/></a>
+    <a href="https://www.anchor-lang.com/"><img src="./anchor.png" width=50/></a>
+    <a href="https://rocket.rs/"><img src="./rocket.png" width=50/></a>
     <a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width=50/></a>
-    <a href="https://hardhat.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width=50/></a>
-    <a href="https://www.openzeppelin.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width=50/></a>
+    <a href="https://hardhat.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width=50/></a>
+    <a href="https://www.openzeppelin.com/"><img src="./openzeppelin.png" width=50/></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50/><a/>
     <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50/><a/>
     <a href="https://www.cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50/></a>
