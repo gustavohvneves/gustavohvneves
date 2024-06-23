@@ -3,7 +3,8 @@
 <div align="center">
   <img  src="./giphy.gif" width="100%"/>
   <p></p>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p>
+  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p> -->
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></p>
 </div>  
 
 
@@ -37,6 +38,7 @@
     <a href="https://hardhat.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width=50/></a>
     <a href="https://www.openzeppelin.com/"><img src="./openzeppelin.png" width=50/></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50/><a/>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=50/><a/>
     <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50/><a/>
     <a href="https://www.cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50/></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50/><a/>
@@ -65,7 +67,8 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohvneves&&theme=onedark" alt="gustavohvneves" width=460 /></p>
 </div>
 
-[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)]
+<!-- [![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--
 **gustavohvneves/gustavohvneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
