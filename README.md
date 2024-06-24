@@ -3,8 +3,8 @@
 <div align="center">
   <img  src="./giphy.gif" width="100%"/>
   <p></p>
-  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></a></p> -->
-  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gustavohvneves&theme=matrix" alt="gustavohvneves" /></p>
+  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></a></p> -->
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></p>
 </div>  
 
 
@@ -13,7 +13,7 @@
 <div align="center">
       <h2>About me:</h2>
       <p></p>
-     <!-- <p>🔭 I’m currently working on <a href="https://github.com/gustavohvneves/rest-countries-django-app">rest-countries-django-app</a></p>
+     <!-- <p>🔭 I’m currently working on <a href="https://github.com/silver-coding-blockchain/rest-countries-django-app">rest-countries-django-app</a></p>
       <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
       <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
       <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p>  -->
@@ -62,16 +62,16 @@
 <hr>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohvneves&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gustavohvneves" width=460 /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gustavohvneves&show_icons=true&locale=en&theme=onedark" alt="gustavohvneves" width=460 /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohvneves&&theme=onedark" alt="gustavohvneves" width=460 /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-coding-blockchain&show_icons=true&locale=en&layout=compact&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=silver-coding-blockchain&&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
 </div>
 
-[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)]
-<!-- [![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavohvneves&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)]
+<!-- [![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--
-**gustavohvneves/gustavohvneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**silver-coding-blockchain/silver-coding-blockchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
