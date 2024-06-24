@@ -1,4 +1,4 @@
-#  ✋ Hi, I'm Gustavo H. V. Neves.
+#  ✋ Hi!
 
 <div align="center">
   <img  src="./giphy.gif" width="100%"/>
