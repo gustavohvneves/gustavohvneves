@@ -1,34 +1,21 @@
-#  ✋ Hi!
+<!--
+<div align="center">
+      <h2>About me:</h2>
+      <p></p>
+      <p>🔭 I’m currently working on <a href="https://github.com/silver-coding-blockchain/rest-countries-django-app">rest-countries-django-app</a></p>
+      <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
+      <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
+      <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p> 
+      <p> 🧠 MY SOLANA RESEARCH:  <a href="./my_solana_research.md">Here!</a></p>
+</div>
+-->
 
 <div align="center">
-  <img  src="./giphy.gif" width="100%"/>
-  <p></p>
   <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></a></p> -->
   <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></p>
 </div>  
 
-
-<hr>
-
-<div align="center">
-      <h2>About me:</h2>
-      <p></p>
-     <!-- <p>🔭 I’m currently working on <a href="https://github.com/silver-coding-blockchain/rest-countries-django-app">rest-countries-django-app</a></p>
-      <p>👯 I’m collaborating on <a href="https://github.com/aprendedeceropython">Comunidad Python Aprende desde Cero</a></p>
-      <p>🌱 I’m currently learning <b>Java, Docker, IT Automation</b></p> 
-      <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p>  -->
-</div>
-
-<hr>
-
-<div align="center">
-   <h2> 🧠 MY SOLANA RESEARCH </h2>
-   <p></p>
-   <p><a href="./my_solana_research.md">Here!</a></p>
-</div>
-
-<hr>
-
+<br>
 <h2 align="center">Languages and Tools:</h2>
 <div align="center" style="display:flex;flex-direction:row;">
     <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50/></a>
@@ -59,15 +46,15 @@
     <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=50/><a/>
 </div>
 
-<hr>
-
+<br>
+<br>
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-coding-blockchain&show_icons=true&locale=en&layout=compact&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=silver-coding-blockchain&&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
 </div>
 
-[![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)]
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)
 <!-- [![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--
