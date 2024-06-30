@@ -57,7 +57,7 @@
 <br>
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-coding-blockchain&show_icons=true&locale=en&layout=compact&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
+  <!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>-->
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=silver-coding-blockchain&&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
 </div>
 
