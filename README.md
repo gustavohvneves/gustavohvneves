@@ -8,11 +8,11 @@
       <p>💬 Ask me about <b>Python, C#, HTML, CSS</b></p> 
       <p> 🧠 MY SOLANA RESEARCH:  <a href="./my_solana_research.md">Here!</a></p>
 </div>
--->
+
 
 <div align="center">
-  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></a></p>
-  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></p>-->
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></a></p>
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=silver-coding-blockchain&theme=matrix" alt="silver-coding-blockchain" /></p>
 </div>  
 
 <br>
@@ -57,10 +57,10 @@
 <br>
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silver-coding-blockchain&show_icons=true&locale=en&layout=compact&theme=onedark" alt="silver-coding-blockchain" width=400 /></p>
-  <!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>-->
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=silver-coding-blockchain&show_icons=true&locale=en&theme=onedark" alt="silver-coding-blockchain" width=460 /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=silver-coding-blockchain&&theme=onedark" alt="silver-coding-blockchain" width=400 /></p>
 </div>
-
+-->
 <!--![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)
 <!-- [![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=silver-coding-blockchain&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
